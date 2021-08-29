@@ -1,0 +1,10 @@
+@supports (bottom: constant(safe-area-inset-bottom)) {
+  .safe-area {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+}
+@supports (bottom: env(safe-area-inset-bottom)) {
+  .safe-area {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+}

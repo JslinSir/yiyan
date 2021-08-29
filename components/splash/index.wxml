@@ -1,0 +1,3 @@
+ <view class="splash-view">
+  <image src="../../images/splash.png" class="splash-img"/>
+ </view>

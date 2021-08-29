@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText":"一言",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "pageScroll":"../../components/pageScroll/index",
+    "poster":"../../components/poster/index",
+    "splash":"../../components/splash/index"
+  }
+}
